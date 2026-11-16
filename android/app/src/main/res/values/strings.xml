@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Blanko Sprin A4</string>
+    <string name="title_activity_main">Blanko Sprin A4</string>
+    <string name="package_name">id.go.polri.semarangselatan.sprin</string>
+    <string name="custom_url_scheme">id.go.polri.semarangselatan.sprin</string>
+</resources>
